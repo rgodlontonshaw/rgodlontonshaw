@@ -7,11 +7,9 @@
 
 <div align="left">
   <sub>
-  I was drawn to the storytelling power of digital multi-media in my early development days — the ability to teach and educate through technology to millions across the world. That evolved into a passion for mobile — creating technology that has a reach for users across the globe. That’s when mobile development became my world, where I spent years crafting apps and experiences that live in people’s pockets.
+  I was drawn to the storytelling power of digital multi-media in my early development days — the ability to teach and educate through technology to millions across the world. That evolved into a passion for mobile and it became my world, where I spent years crafting apps and experiences that live in people’s pockets.
   <br><br>
-  In recent years, a new spark has taken hold: <b>Blockchain</b>.
-  <br>
-  More specifically, I’ve found myself fully immersed in the <b>Solana</b> ecosystem — exploring its speed, potential, and how it’s shaping the next era of the internet. I’m building smart contracts using <code>Rust</code> and <code>Anchor</code>, and I absolutely love it.
+  In recent years, I've been drawn to <b>Blockchain</b>. More specifically, I’ve found myself fully immersed in the <b>Solana</b> ecosystem — exploring its speed, potential, and how it’s shaping the next era of the internet. I’m building smart contracts using <code>Rust</code> and <code>Anchor</code>, and I absolutely love it.
   <br><br>
   <b>Why Rust?</b><br>
   Because it just makes sense. It’s robust, safe, performant, and feels like a real language for builders who care about every byte. I love languages that challenge me to think deeply and write better code. Rust gives me that — and the cross-platform power to build almost anywhere.
