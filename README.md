@@ -16,7 +16,7 @@
   <b>Why Rust?</b><br>
   Because it just makes sense. It’s robust, safe, performant, and feels like a real language for builders who care about every byte. I love languages that challenge me to think deeply and write better code. Rust gives me that — and the cross-platform power to build almost anywhere.
   <br><br>
-  Now, I’m blending all my skills into something new — a fusion of creativity, logic, and next-gen tech. I’m not here just to follow trends. I’m here to <b>craft tools</b>, <b>create value</b>, and help shape the future — one block at a time.
+  These days I’m blending all my skills into something new — a fusion of creativity, logic, and next-gen tech. I’m not here just to follow trends. I’m here to <b>craft tools</b>, <b>create value</b>, and help shape the future — one block at a time.
   </sub>
 </div>
 
