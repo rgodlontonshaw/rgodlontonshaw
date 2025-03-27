@@ -35,6 +35,4 @@
 </p>
 
 ---
-
-### 📈 Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue)
